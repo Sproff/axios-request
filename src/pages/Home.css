@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #494848;
+  color: #fff;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+}
+
+header {
+  text-align: center;
+  font-size: 2rem;
+  padding: 2rem;
+}
